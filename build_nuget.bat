@@ -1,0 +1,1 @@
+nuget pack WPFGlobalExceptionHandling\WPFGlobalExceptionHandling.csproj -properties Configuration=Release -symbols
